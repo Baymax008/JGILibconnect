@@ -1,1 +1,1 @@
-# JGI-Libconnect
+# JGILibconnect
